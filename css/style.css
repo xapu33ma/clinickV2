@@ -33,7 +33,7 @@
     width: 100%;
     position: relative;
     height: 600px;
-    background: url(img/background.jpg);
+    background: url(".../img/background.jpg");
     background-size: cover;
 }
 
