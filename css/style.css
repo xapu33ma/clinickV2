@@ -4,27 +4,27 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url(fonts/Lato.ttf);
+    src: url(/fonts/Lato.ttf);
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'Karla';
-    src: url(fonts/Karla.ttf);
+    src: url(/fonts/Karla.ttf);
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'HelveticaNeueCyr';
-    src: url(fonts/HelveticaNeueCyr.ttf);
+    src: url(/fonts/HelveticaNeueCyr.ttf);
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'PFDinTextCondPro';
-    src: url(fonts/PFDinTextCondPro.ttf);
+    src: url(/fonts/PFDinTextCondPro.ttf);
     font-style: normal;
     font-weight: normal;
 }
@@ -33,7 +33,7 @@
     width: 100%;
     position: relative;
     height: 600px;
-    background: url(".../img/background.jpg");
+    background: url(/img/background.jpg);
     background-size: cover;
 }
 
